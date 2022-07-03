@@ -1,5 +1,5 @@
 ### 반가워요 👋
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&height=300&section=header&text=BuYong%20Jeong&fontSize=90)
 <!--
 **cottonrose1011/cottonrose1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Tech</h3>
+
+<p align="center">
+![](https://img.shields.io/badge/Java-007396.svg?%style=for-the-badge&logo=Java&logoColor=white) 
+![](https://img.shields.io/badge/C-00599C.svg?%style=for-the-badge&logo=C&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB.svg?%style=for-the-badge&logo=Python&logoColor=white)   ![](https://img.shields.io/badge/Springboot-6DB33F.svg?%style=for-the-badge&logo=Spring&logoColor=white)</p>
