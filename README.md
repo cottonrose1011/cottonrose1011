@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Tech</h3>
 
 <p align="center">
-![](https://img.shields.io/badge/Java-007396.svg?%style=for-the-badge&logo=Java&logoColor=white) 
-![](https://img.shields.io/badge/C-00599C.svg?%style=for-the-badge&logo=C&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB.svg?%style=for-the-badge&logo=Python&logoColor=white)   ![](https://img.shields.io/badge/Springboot-6DB33F.svg?%style=for-the-badge&logo=Spring&logoColor=white)</p>
+<img src ="https://img.shields.io/badge/Java-007396.svg?%style=for-the-badge&logo=Java&logoColor=white"/> 
+<img src ="https://img.shields.io/badge/C-00599C.svg?%style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB.svg?%style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Springboot-6DB33F.svg?%style=for-the-badge&logo=Spring&logoColor=white"/></p>
