@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center">Tech Stack</h3>
 
 <p align="center">
-<img src ="https://img.shields.io/badge/Java-007396.svg?%style=for-the-badge&logo=Java&logoColor=white"/> 
 <img src ="https://img.shields.io/badge/C-00599C.svg?%style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB.svg?%style=for-the-badge&logo=Python&logoColor=white"/>   
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">   
 </p>
 <p align="center"><img src="https://img.shields.io/badge/Springboot-6DB33F.svg?%style=for-the-badge&logo=Spring&logoColor=white"/></p>
 
