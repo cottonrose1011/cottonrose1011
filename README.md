@@ -1,4 +1,3 @@
-### 반가워요 👋
 ![header](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&height=300&section=header&text=BuYong%20Jeong&fontSize=90)
 <!--
 **cottonrose1011/cottonrose1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
