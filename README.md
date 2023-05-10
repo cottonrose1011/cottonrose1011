@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=header&text=BuYong%20Jeong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=75BDE0&height=300&section=header&text=BuYong%20Jeong&fontSize=90&fontColor=fffff6)
 <!--
 **cottonrose1011/cottonrose1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
